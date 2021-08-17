@@ -1,8 +1,8 @@
 Hi there 👋 I am from Greece and I have some knowledge on Python HTML CSS and C++ ! 
 Want to contact me? DimitrisSenpai#6976
 
-Dla zespołu programistów? Siema! 👋
+CYKA BLYAT!
 
-- 🔭 I’m currently working on big russian project (meme)
-- 🌱 I’m currently learning C++ Python
-- 👯 I’m looking to collaborate on https://iledopapiezowej.pl/
+- 🔭 I’m currently working on whatever comes to mind
+- 🌱 I’m currently learning C++m Python
+- 👯 I’m looking to collaborate on myself
